@@ -34,7 +34,7 @@ const Meta = () => {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content={`A statically generated blog example using Next.js and ${CMS_NAME}.`}
+        content="Meat Avatar คือแบรนด์ที่ผลิตเนื้อจากพืชผัก (plant-based meat) โดยใช้วัตถุดิบในประเทศไทย เพื่อให้คนไทยสามารถเข้าถึงเนื้อประเภทนี้ได้ง่ายขึ้น สิ่งที่ทำให้ Meat Avatar ทั้งยังมีProduct สำหรับคนไทยและชาวเอเชีย เช่น หมูกรอบ หมูสับ และไข่ดาว ซึ่งเป็นวัตถุดิบขาประจำในมื้ออาหารไทยและเอเชีย นอกจากคนกินจะสุขภาพดี เนื้อแพลนต์เบสด์ยังดีต่อโลกด้วย เพราะการลดการบริโภคเนื้อสัตว์จะช่วยลดการเลี้ยงปศุสัตว์ ซึ่งมีส่วนให้เกิดภาวะโลกร้อนถึง 18 เปอร์เซ็นต์"
       />
       <meta property="og:image" content={HOME_OG_IMAGE_URL} />
     </Head>
