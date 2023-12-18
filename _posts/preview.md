@@ -1,6 +1,6 @@
 ---
 title: 'Preview Mode for Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+excerpt: 'Meat Avatar คือแบรนด์ที่ผลิตเนื้อจากพืชผัก (plant-based meat) โดยใช้วัตถุดิบในประเทศไทย เพื่อให้คนไทยสามารถเข้าถึงเนื้อประเภทนี้ได้ง่ายขึ้น สิ่งที่ทำให้ Meat Avatar ทั้งยังมีProduct สำหรับคนไทยและชาวเอเชีย เช่น หมูกรอบ หมูสับ และไข่ดาว ซึ่งเป็นวัตถุดิบขาประจำในมื้ออาหารไทยและเอเชีย นอกจากคนกินจะสุขภาพดี เนื้อแพลนต์เบสด์ยังดีต่อโลกด้วย เพราะการลดการบริโภคเนื้อสัตว์จะช่วยลดการเลี้ยงปศุสัตว์ ซึ่งมีส่วนให้เกิดภาวะโลกร้อนถึง 18 เปอร์เซ็นต์'
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Meat Avatar คือแบรนด์ที่ผลิตเนื้อจากพืชผัก (plant-based meat) โดยใช้วัตถุดิบในประเทศไทย เพื่อให้คนไทยสามารถเข้าถึงเนื้อประเภทนี้ได้ง่ายขึ้น สิ่งที่ทำให้ Meat Avatar ทั้งยังมีProduct สำหรับคนไทยและชาวเอเชีย เช่น หมูกรอบ หมูสับ และไข่ดาว ซึ่งเป็นวัตถุดิบขาประจำในมื้ออาหารไทยและเอเชีย นอกจากคนกินจะสุขภาพดี เนื้อแพลนต์เบสด์ยังดีต่อโลกด้วย เพราะการลดการบริโภคเนื้อสัตว์จะช่วยลดการเลี้ยงปศุสัตว์ ซึ่งมีส่วนให้เกิดภาวะโลกร้อนถึง 18 เปอร์เซ็นต์. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
 
 Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
 
