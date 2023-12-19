@@ -4,7 +4,7 @@ excerpt: 'Meat Avatar คือแบรนด์ที่ผลิตเนื�
 coverImage: '/assets/blog/dynamic-routing/cover.jpg'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: JJ Kasper
+  name: RiwRiwara
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
